@@ -28,7 +28,11 @@ export class InFrontOfYou extends Component {
   render() {
     return (
       <div>
+<<<<<<< HEAD
         <p>You shouldn&#x27;t look too far.</p>
+=======
+        <p>"You shouldn't look too far."</p>
+>>>>>>> 506c9e1dfc33858168673e78d54b3d96db760063
         <p>Sometimes, the solution is right in front of you.</p>
       </div>
     )
